@@ -32,7 +32,7 @@ It was immediate and obvious from the feedback we recieved from our agency partn
 
 The chief complaint about the proposed designs revolved around our use of large status cards and an expansive, more consumer friendly home page to navigate around the site:
 
-> *This will be impossible for me to manage my work flow, there's like 4 documents in the search return...I manage hundreds to thousands. If you released this I would be pretty pissed off.
+> *This will be impossible for me to manage my work flow, there's like 4 documents in the search return...I manage hundreds to thousands. If you released this I would be pretty pissed off.*
 
 **Noted**
 
