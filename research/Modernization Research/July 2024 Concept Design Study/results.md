@@ -26,5 +26,25 @@ We attempted to test our initial and overall approach to what a re-designed Regu
 
 ## FDMS designs were a reversion of functionality: decreasing readiblity, effiency, and the ability to process a high volume of documents/comments
 
+It was immediate and obvious from the feedback we recieved from our agency partners that we missed the mark on our initial concepts for the mdoernized version of FDMS. Our initial assumptions we wanted to prove were based around reusing the designs and components we created for Regulations.gov to provide a more unified design approach.
+
+### Larger components and diminished screen real estate frustrated users and was the antithesis to how they work
+
+The chief complaint about the proposed designs revolved around our use of large status cards and an expansive, more consumer friendly home page to navigate around the site:
+
+> *This will be impossible for me to manage my work flow, there's like 4 documents in the search return...I manage hundreds to thousands. If you released this I would be pretty pissed off.
+
+**Noted**
+
+### Shifting our attention to a solution by looking to the past and admiring the competitors of the future
+
+We scrapped our initial designs and went on a mission to try and uncover screenshots or images of the old versions of FDMS, v3 and v4, which were and remain highly popular with users for its functionality and usability. 
+
+With all hands on board, we dug up an archive and set to work to emulate the designs of v4, quickly iterating to re-work our core capability concept designs. 
+
+We also looked to competitors for inspiration and ideas on how to increase screen real estate, reduce context switching, and increase workflow efficiency when performing discrete tasks in FDMS. We found a potential design pattern solution looking at data analytics platforms — tabs. We're now investigating using pop-out tabs within FDMS when a users wants to dive deep into what we are calling "scenarios" i.e. reviewing assigned comments, investgating a deduplication report, or eventually topic tagging processed comments. 
+
+## Follow on interviews and studies are now ongoing to assess the potential of our FDMS v4 and tab based design concepts
+
 
 
