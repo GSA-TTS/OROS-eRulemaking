@@ -2,7 +2,7 @@
 
 ## Hypotheses Tested (Tl;DR)
 
-1. Do agency partners prefer an automated FR feed, a hybrid process, or stay with the manual FR Feed and review?
+Do agency partners prefer an automated FR feed, a hybrid process, or stay with the manual FR Feed and review?
 
 ## Participants
 
